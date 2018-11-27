@@ -18,7 +18,7 @@
     traffic_manager_endpoint_name: endpoint1
 
   roles:
-    - Azure.azure_preview_modules
+    - azure.azure_preview_modules
 
   tasks:
   - name: Create resource group
